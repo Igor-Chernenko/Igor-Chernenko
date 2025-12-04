@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Chernenko)](https://github.com/anuraghazra/github-readme-stats)
+
