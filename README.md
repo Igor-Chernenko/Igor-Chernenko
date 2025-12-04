@@ -1,1 +1,8 @@
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?center=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Hey+There%21%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.06666666666666667%7D%2C%7B%22text%22%3A%22My+name+Is+Igor%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.06666666666666667%7D%2C%7B%22text%22%3A%22And+this+is+my+GitHub%21%22%2C%22typingSpeed%22%3A0.16666666666666666%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=1000&height=150&lines=Lets+talk+Data!)](https://git.io/typing-svg)
+
+----
+Hi There!<br>
+Whether you're a friend checking out my projects, or a recruiter getting excited about how much you want to hire me;<br><br>
+Lets get in touch:<br>
+Gmail: Igorchernenko1928@gmail.com <br>
+Linkedin: https://www.linkedin.com/in/igor--chernenko/ <br>
