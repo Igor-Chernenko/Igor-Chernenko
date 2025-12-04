@@ -1,2 +1,1 @@
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Chernenko)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?center=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Hey+There%21%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.06666666666666667%7D%2C%7B%22text%22%3A%22My+name+Is+Igor%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.06666666666666667%7D%2C%7B%22text%22%3A%22And+this+is+my+GitHub%21%22%2C%22typingSpeed%22%3A0.16666666666666666%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
